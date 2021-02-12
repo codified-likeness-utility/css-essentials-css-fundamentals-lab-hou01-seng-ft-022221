@@ -39,4 +39,5 @@ figure {
   background-color: silver;
   text-align: center;
   width: 25%;
+  float: left;
 }
