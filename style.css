@@ -35,3 +35,8 @@ figure {
   margin-right: auto;
 }
 
+#details {
+  background-color: silver;
+  text-align: center;
+  width: 25%;
+}
